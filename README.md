@@ -1,46 +1,46 @@
 # Case Study: Cyclistic Bike-Share Analysis
 
-Este proyecto es parte de un estudio de análisis de datos realizado durante un curso de Data Analytics. El objetivo principal fue ayudar a una compañía de alquiler de bicicletas —**Cyclistic**— a entender el comportamiento de los usuarios con y sin membresía anual, con el fin de diseñar estrategias para convertir a más usuarios ocasionales en miembros anuales.
+This project is part of a Data Analytics course and focuses on helping a bike-sharing company — **Cyclistic** — understand the behavior of its users, with the goal of converting more casual riders into annual members.
 
-## 🧠 Objetivo del Análisis
+## 🎯 Project Objective
 
-Investigar las diferencias en el comportamiento entre:
-- **Usuarios con membresía anual**
-- **Usuarios casuales (sin membresía)**
+To explore behavioral differences between:
+- **Annual members**
+- **Casual riders**
 
-El análisis busca responder preguntas como:
-- ¿Cuáles son los patrones de uso entre ambos tipos de usuarios?
-- ¿Qué días y horarios prefieren?
-- ¿Cuánto tiempo suelen durar los viajes?
-- ¿Qué tipo de bicicletas usan más frecuentemente?
+The analysis aims to answer key questions such as:
+- How do ride patterns differ between the two groups?
+- What days and times are most popular?
+- How long do rides typically last?
+- What types of bikes are used more frequently?
 
-## 📊 Herramientas utilizadas
+## 🛠️ Tools & Technologies
 
-- Lenguaje R
-- Jupyter Notebook con kernel de R
-- Paquetes:
+- **Programming language:** R
+- **Environment:** Jupyter Notebook (IRKernel)
+- **Libraries used:**
   - `tidyverse`
+  - `dplyr`
   - `lubridate`
   - `ggplot2`
-  - `dplyr`
 
-## 📁 Contenido del Notebook
+## 📋 Notebook Overview
 
-El notebook incluye:
-1. **Carga y limpieza de datos**
-2. **Análisis exploratorio**
-3. **Comparación de métricas entre usuarios**
-4. **Visualizaciones con ggplot2**
-5. **Conclusiones y recomendaciones**
+The notebook includes the following sections:
+1. **Data cleaning and preparation**
+2. **Exploratory data analysis (EDA)**
+3. **User behavior comparison**
+4. **Data visualizations using `ggplot2`**
+5. **Insights and recommendations**
 
-## ✅ Conclusiones
+## 📈 Key Findings
 
-A partir del análisis, se identificaron diferencias significativas en el comportamiento de uso, lo que permite a Cyclistic diseñar estrategias para convertir a más usuarios casuales en suscriptores anuales.
+The analysis reveals distinct differences in behavior between casual users and annual members. These findings provide actionable insights that can help Cyclistic design targeted marketing strategies to increase the number of annual memberships.
 
-## 🚲 Sobre Cyclistic
+## 🚲 About Cyclistic
 
-Cyclistic es una compañía ficticia de bike-sharing basada en un caso de estudio del programa **Google Data Analytics Certificate**, inspirado en datos reales pero adaptados para fines educativos.
+Cyclistic is a fictional bike-share company featured in a case study from the **Google Data Analytics Certificate**. While the data is based on a real-world bike-share program, it has been modified for educational purposes.
 
 ---
 
-> 📌 **Nota:** Este proyecto es académico y tiene fines de aprendizaje.
+> ⚠️ **Note:** This project is for academic and learning purposes only.
